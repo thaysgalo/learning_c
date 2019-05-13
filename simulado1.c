@@ -24,6 +24,5 @@ int main()
 		printf("Existe pelo menos um número 0 ou negativo.\n");
 	} 
 
-
 	return (0);
 }
