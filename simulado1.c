@@ -12,7 +12,7 @@ int main()
 
 	if (valor1 > 0 && valor2 > 0)
 	{
-		if(valor1 % 2 == 0 && valor2 % 2 == 0)
+		if (valor1 % 2 == 0 && valor2 % 2 == 0)
 			printf("Os dois números são pares.\n");
 		else if (valor1 % 2 == 1 && valor2 % 2 == 1)
 			printf("Os dois números são ímpares.\n");
