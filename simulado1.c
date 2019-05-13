@@ -13,13 +13,15 @@ int main()
 	if (valor1 > 0 && valor2 > 0)
 	{
 		if(valor1 % 2 == 0 && valor2 % 2 == 0)
-			printf("%s", "Os dois números são pares.\n");
+			printf("Os dois números são pares.\n");
 		else if (valor1 % 2 == 1 && valor2 % 2 == 1)
-			printf("%s", "Os dois números são ímpares.");
+			printf("Os dois números são ímpares.\n");
+		else
+			printf("Existe um número par e um número ímpar.\n");
 	}
 	else
 	{
-		printf("%s", "Existe pelo menos um número 0 ou negativo.");
+		printf("Existe pelo menos um número 0 ou negativo.\n");
 	} 
 
 
