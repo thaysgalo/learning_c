@@ -9,7 +9,7 @@
 
 int main()
 {
-	int const maioridade_civil = 18;
+	const int maioridade_civil = 18;
 	int idade1 = 25;
 	int idade2 = 16;
 	int resultado_logico;

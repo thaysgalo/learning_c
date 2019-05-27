@@ -11,9 +11,9 @@ int main()
 	scanf("%d", &valor);
 
 	if(valor )
-		{
-			printf("%s","O número é perfeito.\n");
-		}
+	{
+		printf("%s","O número é perfeito.\n");
+	}
 
 
 
