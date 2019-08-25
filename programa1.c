@@ -7,7 +7,7 @@
 // mesmo que não realize tarefa computacional alguma, precisa ter, no corpo
 // da função principal, a declaração de um retorno de um valor do tipo inteiro.
 int
-main(int arga, char **argv)
+main(int argc, char **argv)
 {
 	return (0);
 }
