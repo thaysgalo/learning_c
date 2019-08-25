@@ -6,7 +6,8 @@
 // sempre retornará um valor do tipo INTEIRO. POr esta razão este programa,
 // mesmo que não realize tarefa computacional alguma, precisa ter, no corpo
 // da função principal, a declaração de um retorno de um valor do tipo inteiro.
-int main()
+int
+main(int arga, char **argv)
 {
 	return (0);
 }
